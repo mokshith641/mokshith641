@@ -23,14 +23,11 @@ Proficient in Python with hands-on experience in recommendation systems, backend
 
 ### 🚀 Projects
 
-**🔹 CareerCompass – Intelligent Career Path Recommendation System**
-
-* Built a recommendation system using TF-IDF and cosine similarity
-* Processed 16k GitHub repositories for insights and skill gap analysis
-* Designed scalable backend using Django
-* Improved recommendation accuracy using feature representation techniques
-
----
+**🔹 CareerCompass – Intelligent Career Path Recommendation System**  
+- Built using TF-IDF and cosine similarity  
+- Processed 16k GitHub repos for insights  
+- Backend using Django  
+👉 https://github.com/mokshith641/career-compass
 
 **🔹 Smart Notification System**
 
