@@ -1,4 +1,4 @@
-<h1 align="center">Mokshith H C</h1>
+<h1 align="center">MOKSHITH H C</h1>
 <p align="center">
   B.E. AI/ML Student • Building Data-Driven Systems & Intelligent Applications
 </p>
