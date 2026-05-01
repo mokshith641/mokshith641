@@ -1,49 +1,78 @@
-<h1 align="center">Hi, I'm Mokshith 👋</h1>
+<h1 align="center">Mokshith H C</h1>
 <p align="center">
-  Aspiring AI/ML Engineer • Problem Solver • Building CareerCompass
+  B.E. AI/ML Student • Building Data-Driven Systems & Intelligent Applications
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Profile
 
-* 🎓 Engineering student focused on AI/ML
-* 🚀 Building **CareerCompass V2 (Django + ML)**
-* 📊 Experience with GitHub data analysis (16k+ repos)
-* 🧠 Learning DSA & Machine Learning
+Artificial Intelligence & Machine Learning student with strong interest in building data-driven systems and intelligent applications.
+Proficient in Python with hands-on experience in recommendation systems, backend development, and data analysis.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,django,react,mysql,git" />
-</p>
+* **Programming:** Python, C, SQL, HTML, CSS
+* **Frameworks & Tools:** Django, Git, GitHub, Jupyter Notebook
+* **Machine Learning & Data:** NumPy, Pandas, Matplotlib, Seaborn, TF-IDF, Cosine Similarity
+* **Databases:** SQLite, MongoDB
 
 ---
 
-### 📌 Projects
+### 🚀 Projects
 
-* 🔹 **CareerCompass V2**
-  AI-based career recommendation system using TF-IDF + cosine similarity
+**🔹 CareerCompass – Intelligent Career Path Recommendation System**
 
-* 🔹 **Smart Meeting Assistant**
-  Auto summarization + engagement detection using ML
+* Built a recommendation system using TF-IDF and cosine similarity
+* Processed 16k GitHub repositories for insights and skill gap analysis
+* Designed scalable backend using Django
+* Improved recommendation accuracy using feature representation techniques
+
+---
+
+**🔹 Smart Notification System**
+
+* Developed rule-based system to analyze user activity patterns
+* Reduced redundant alerts and prioritized critical notifications
+* Implemented event-driven logic for efficient execution
+
+---
+
+**🔹 Mobile Company Database System (Django)**
+
+* Built full-stack web app using Django & SQLite
+* Implemented CRUD operations and dynamic templates
+* Designed efficient database models and data handling
+
+---
+
+### 🏆 Achievements & Certifications
+
+* Solved **70+ problems** on LeetCode & HackerRank
+* NPTEL: *The Joy of Computing using Python* (Elite – 90%)
+* Google Cloud Generative AI Leader Track
+
+---
+
+### 🎯 Areas of Interest
+
+* Machine Learning & Recommendation Systems
+* Data Analysis & Intelligent System Design
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mokshith641&show_icons=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=mokshith641" height="150"/>
 </p>
 
 ---
 
 ### 🌐 Connect
 
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> • 
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+* 📧 [mokshith641@gmail.com](mailto:mokshith641@gmail.com)
+* 🔗 https://linkedin.com/in/mokshith-h-c
